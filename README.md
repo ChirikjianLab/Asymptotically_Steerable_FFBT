@@ -6,3 +6,11 @@ This repostory is related to implementations of numerical experiments provided i
 *Asymptotically Steerable Finite Fourier–Bessel Transforms and Closure Under Convolution*  
 _Adv Comput Math_ **51**, 57 (2025).  
 [https://doi.org/10.1007/s10444-025-10268-2](https://doi.org/10.1007/s10444-025-10268-2)
+
+## Requirement
+The test scripts in this repository require the following zero solver, please download the following file:
+
+Jason Nicholson, Bessel Zero Solver, MATLAB Central File Exchange.
+[https://www.mathworks.com/matlabcentral/fileexchange/48403-bessel-zero-solver](https://www.mathworks.com/matlabcentral/fileexchange/48403-bessel-zero-solver)
+
+
